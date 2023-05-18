@@ -1,5 +1,4 @@
 
-Xianci Tang[g-number: G00798675]
 Project 1
 
 Requirements Implemented:
