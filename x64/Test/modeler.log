@@ -1,0 +1,15 @@
+﻿  camera.cpp
+c:\users\bifen\downloads\original\modskls15 skeleton\camera.cpp(2): fatal error C1083: Cannot open include file: 'Fl/gl.h': No such file or directory
+  meshmodel.cpp
+c:\users\bifen\downloads\original\modskls15 skeleton\modelerview.h(12): fatal error C1083: Cannot open include file: 'FL/Fl_Gl_Window.H': No such file or directory
+  modelerapp.cpp
+c:\users\bifen\downloads\original\modskls15 skeleton\modelerview.h(12): fatal error C1083: Cannot open include file: 'FL/Fl_Gl_Window.H': No such file or directory
+  modelerdraw.cpp
+c:\users\bifen\downloads\original\modskls15 skeleton\modelerdraw.h(8): fatal error C1083: Cannot open include file: 'FL/gl.h': No such file or directory
+  modelerui.cxx
+c:\users\bifen\downloads\original\modskls15 skeleton\modelerui.h(5): fatal error C1083: Cannot open include file: 'FL/Fl.H': No such file or directory
+  modelerview.cpp
+c:\users\bifen\downloads\original\modskls15 skeleton\modelerview.h(12): fatal error C1083: Cannot open include file: 'FL/Fl_Gl_Window.H': No such file or directory
+  RobotArmmodel.cpp
+c:\users\bifen\downloads\original\modskls15 skeleton\modelerview.h(12): fatal error C1083: Cannot open include file: 'FL/Fl_Gl_Window.H': No such file or directory
+  Generating Code...
